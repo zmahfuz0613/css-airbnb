@@ -17,12 +17,12 @@ Lots of websites, including Facebook and Airbnb, use a grid layout to display co
 
 ##Deliverable
 
-Here's a screenshot of the portion that should be replicated. Deliver the mockup as close as possible. In addition, code should be well-indented and follow best practices, including no linter errors.
+Here's a screenshot of the portion that should be replicated. Deliver the mockup as close as possible. In addition, code should be well-indented, follow best practices and pass a CSS validator.
 
 ![Solution](solution.jpg)
 
 ##Bonus
-Design agencies will usually have you own and create the whole page, not just a small portion of it. Try recreating the rest of the Airbnb home page!
+Design agencies will usually have you own and create the whole page, not just a small portion of it. [Try recreating the rest of the Airbnb home page!](https://www.airbnb.com/)
 
 ---
 
