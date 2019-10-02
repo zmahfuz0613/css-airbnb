@@ -36,6 +36,11 @@ Your solution should match this mock as closely as possible.
 Additionally, your css should pass the
 [CSS Validator](https://jigsaw.w3.org/css-validator/).
 
+## Bonus
+
+Finish early? Great! Deploy your website to
+[GitHub Pages](https://pages.github.com/).
+
 ## Plagiarism
 
 Take a moment to refamiliarize yourself with the
