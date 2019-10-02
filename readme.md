@@ -1,31 +1,49 @@
-# Airbnb Mockup
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-Lots of websites, including Facebook and Airbnb, use a grid layout to display common elements, such as information cards, photos, and other information. The best way to learn how to create these different layouts is to try them ourselves. So let's try recreating a portion of [Airbnb's website](https://www.airbnb.com/).
+# AirBnB
 
-## Getting Started
-* Fork and clone this repository to your computer
-* A HTML file (`index.html`) and CSS file (`css/style.css`) have been created for you. Content is also provided in a folder called `img`
+Lots of websites, including Facebook and Airbnb, use a grid layout to display
+common elements, such as information cards, photos, and other information. The
+best way to learn how to create these different layouts is to try them
+ourselves. So let's try recreating a portion of
+[Airbnb's website](https://www.airbnb.com/).
+
+## Prerequisites
+
+- HTMl
+- Styling with CSS
+- Layout with either CSS Grid or Flexbox
+
+## Instructions
+
+1. Fork and clone this repository.
+1. Change into the new directory.
+1. Fulfill the listed requirements.
+
+Starter code is available in [`lib/`](lib/). Complete your work inside that
+directory.
+
+Please turn in your submission by the deadline on your cohort calendar.
 
 ## Requirements
-* Look at the deliverable screenshot and see how well you can match it.
-* Keep the following in mind when recreating the screenshot
-  * Using the right font
-  * Obtaining and using relevant images
-  * Aligning the text in the center of each image
-  * Aligning the images in the center of each page
-  * Thinking of the layout in terms of rows and columns
 
-## Deliverable
+Build out the HTML and CSS necessary to build a website that matches this mock:
 
-Here's a screenshot of the portion that should be replicated. Deliver the mockup as close as possible. In addition, code should be well-indented, follow best practices and pass a CSS validator.
+![AirBnB Mock](./solution.jpg)
 
-![Solution](solution.jpg)
+Your solution should match this mock as closely as possible.
 
-## Bonus
-Design agencies will usually have you own and create the whole page, not just a small portion of it. [Try recreating the rest of the Airbnb home page!](https://www.airbnb.com/)
+Additionally, your css should pass the
+[CSS Validator](https://jigsaw.w3.org/css-validator/).
 
----
+## Plagiarism
 
-## Licensing
-1. All content is licensed under a CC-BY-NC-SA 4.0 license.
-2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+Take a moment to refamiliarize yourself with the
+[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
+Plagiarized work will not be accepted.
+
+## [License](LICENSE)
+
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.
